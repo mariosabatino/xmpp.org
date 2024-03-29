@@ -13,9 +13,6 @@
     "permalinks": {
         "blog": "/:year/:month/:title/"
     },
-    "author": {
-        "name": "XMPP Communication Team and Contributors"
-    },
     "privacy": {
         "youtube": {
             "privacyEnhanced": true
@@ -23,10 +20,15 @@
     },
     "Params": {
         "dateFormat": "January 2, 2006",
+        "author": {
+            "name": "XMPP Communication Team and Contributors"
+        },
         "githubEdit": "https://github.com/xsf/xmpp.org/edit/master/content/",
         "hideAuthor": false,
         "readingTime": true,
         "socialShare": true,
-        "subtitle": "The universal messaging standard"
+        "subtitle": "The universal messaging standard",
+        "description": "XMPP - The universal messaging standard",
+        "SiteLogoUrl": "https://xmpp.org/images/logos/xmpp-logo-text-800px.png"
     }
 }
